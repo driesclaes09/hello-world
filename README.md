@@ -1,2 +1,2 @@
-# hello-world
-Just another repository
+# linked List
+Exercises for Embedded system programming Linked List
